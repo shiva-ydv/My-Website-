@@ -2,7 +2,7 @@
 
 # Shiva Yadav | Frontend Developer Portfolio
 
-![Portfolio Banner](https://via.placeholder.com/1200x400/1e293b/ffffff?text=Shiva+Yadav+Frontend+Developer)
+![Portfolio Banner](https://github.com/shiva-ydv/My-Website-/blob/main/Images/Screenshot%202025-05-21%20125145.png)
 
 Check out the live app here: 
 [🌐 Live Demo](https://portfolioshivayadav.netlify.app/)
