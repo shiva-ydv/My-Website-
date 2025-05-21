@@ -5,6 +5,7 @@
 ![Portfolio Banner](https://via.placeholder.com/1200x400/1e293b/ffffff?text=Shiva+Yadav+Frontend+Developer)
 
 Check out the live app here: 
+
 [🌐 Live Demo](https://portfolioshivayadav.netlify.app/)!-- Replace with your banner image -->
 
 ## 👨‍💻 About Me
