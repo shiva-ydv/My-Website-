@@ -4,7 +4,7 @@
 
 ![Portfolio Banner](https://via.placeholder.com/1200x400/1e293b/ffffff?text=Shiva+Yadav+Frontend+Developer)
 
-![Live Demo]('https://portfolioshivayadav.netlify.app/')<!-- Replace with your banner image -->
+Check out the live app here: [🌐 Live Demo](https://portfolioshivayadav.netlify.app/)!-- Replace with your banner image -->
 
 ## 👨‍💻 About Me
 I'm a passionate Frontend Developer with expertise in modern web technologies. Currently expanding my skills into backend development to become a full-stack developer. My journey includes building responsive websites, interactive UIs, and solving real-world problems through code.
